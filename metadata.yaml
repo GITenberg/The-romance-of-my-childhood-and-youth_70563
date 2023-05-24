@@ -1,6 +1,9 @@
 _repo: The-romance-of-my-childhood-and-youth_70563
 _version: 0.1.0
 alternative_title: Le roman de mon enfance et de ma jeunesse. English
+covers:
+- cover_type: archival
+  image_path: 70563-h/images/cover.jpg
 creator:
   author:
     agent_name: Adam, Juliette
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Juliette_Adam
     - https://fr.wikipedia.org/wiki/Juliette_Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70563#The-romance-of-my-childhood-and-youth
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70563'
